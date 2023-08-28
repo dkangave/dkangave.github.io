@@ -11,5 +11,5 @@ tags: [DS, intro, certificate]
 This post is meant to summarize some of the key concepts I have learned in the course *Introduction to DataScience*
 
 
-![datacamp certification](/assets/images/banners/C:\Users\Diana\OneDrive\Pictures\Julian + Mya pics\Mya's & Friend's pics)
+![datacamp certification](/assets/images/banners/data_certificate_dummy.jpg)
 
