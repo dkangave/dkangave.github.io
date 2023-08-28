@@ -2,8 +2,8 @@
 layout: post
 title: Modules
 subtitle: Module Summary
-categories: Data Science
-tags: [Github,Data Science]
+categories: DataScience
+tags: [Github,DataScience]
 ---
 ## Modules
 
