@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Introduction to Python
+title: Introduction to DS
 subtitle: Each post also has a subtitle
-categories: Python
-tags: [Python, intro, certificate]
+categories: DS
+tags: [DS, intro, certificate]
 ---
 
-## Introduction to Python
+## Introduction to DS
 
-This post is meant to summarize some of the key concepts I have learned in the course *Introduction to Python*
+This post is meant to summarize some of the key concepts I have learned in the course *Introduction to DataScience*
 
 
-![datacamp certification](/assets/images/banners/datacamp_certificate_dummy.jpg)
+![datacamp certification](file:///C:/Users/Diana/Documents/Cousera%20Certificates/Coursera%20Introduduction%20to%20Data%20Science.pdf)
