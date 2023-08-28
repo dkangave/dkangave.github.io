@@ -3,6 +3,6 @@ layout: about
 title: About
 ---
 
-## About
+### About
 
-Hi, nice to meet you.
+I have 5+ years of technical experience and currently pursuing an MSc Data Science
