@@ -11,5 +11,5 @@ tags: [DS, intro, certificate]
 This post is meant to summarize some of the key concepts I have learned in the course *Introduction to DataScience*
 
 
-![Coursera_Introduction_to_Data_Science](/assets/images/banners/Coursera_Introduction_to_Data_Science.pdf)
+![Coursera_Introduction_to_Data_Science](/assets/images/banners/Coursera Introduduction to Data Science.pdf)
 
