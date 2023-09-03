@@ -11,5 +11,5 @@ tags: [DS, intro, certificate]
 This post is meant to summarize some of the key concepts I have learned in the course *Introduction to DataScience*
 
 
-![Databasemodels](https://commons.wikimedia.org/wiki/File:Database_models.jpg)https://commons.wikimedia.org/wiki/File:Database_models.jpg)
+![Databas emodels](https://commons.wikimedia.org/wiki/File:Database_models.jpg)
 
