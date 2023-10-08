@@ -8,4 +8,4 @@ tags: [DS, Summary Post]
 
 
 
-![Summary Post](https://upload.wikimedia.org/wikipedia/commons/3/3b/SummaryPost.jpg)
+![Summary Post](SummaryPost.jpg)
