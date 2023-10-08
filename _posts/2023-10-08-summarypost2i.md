@@ -8,4 +8,4 @@ tags: [DS, Summary Post]
 
 
 
-![Database models](https://upload.wikimedia.org/wikipedia/commons/3/3b/SummaryPost.jpg)
+![Summary Post](https://upload.wikimedia.org/wikipedia/commons/3/3b/SummaryPost.jpg)
