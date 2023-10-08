@@ -6,7 +6,6 @@ categories: DS
 tags: [DS, Summary Post]
 ---
 
-![Summary Post](https://www.my-course.co.uk/mod/forum/discuss.php?d=187511)
-
+![Summary Post](https://github.com/dkangave/dkangave.github.io/blob/main/assets/images/banners/Summary%20Post.jpg)
 
 
