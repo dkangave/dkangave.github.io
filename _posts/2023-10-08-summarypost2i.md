@@ -8,4 +8,4 @@ tags: [DS, Summary Post]
 
 
 
-![Summary Post](file:///C:/Users/Diana/Downloads/jpg2pdf.pdf)
+![Summary Post](C:/Users/Diana/Downloads/jpg2pdf.pdf)
